@@ -1,0 +1,22 @@
+
+Year : 2014	Month : 1	Day : 11
+Gave 30000 Water rune To wuff
+--------------------------------------------------
+Year : 2014	Month : 1	Day : 11
+Gave 20000 Death rune To wuff
+--------------------------------------------------
+Year : 2014	Month : 1	Day : 11
+Gave 9896 Blood rune To wuff
+--------------------------------------------------
+Year : 2014	Month : 1	Day : 11
+Gave 401 Mind rune To wuff
+--------------------------------------------------
+Year : 2014	Month : 1	Day : 11
+Gave 200 Earth rune To wuff
+--------------------------------------------------
+Year : 2014	Month : 1	Day : 11
+Gave 400 Air rune To wuff
+--------------------------------------------------
+Year : 2014	Month : 1	Day : 11
+Gave 1000 Nature rune To wuff
+--------------------------------------------------

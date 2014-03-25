@@ -1,0 +1,13 @@
+-Temp ranks
+-temp mutes
+-temp bans
+-Lower the load of the source/client    DONE(MOSTLY)
+-Add a hyperion game engine(loads faster apparently)
+-get bank tabs for the server!
+-Gravestones (convert)   -   http://www.rune-server.org/runescape-development/rs2-server/snippets/476412-gravestones.html
+-Perfect 602 anims&GFXs  -   http://www.rune-server.org/runescape-development/rs2-client/tutorials/383678-pi-perfect-602-animations.html
+-Level up sprites        -   http://www.rune-server.org/runescape-development/rs2-client/snippets/386503-newer-level-up.html
+-New donator zone : 2584 4575
+-Show npcs in summon tab -   http://www.rune-server.org/runescape-development/rs2-server/snippets/384205-familiar-head-showing-summoning-tab.html
+-Use coords: 2469 4940 portals + rooms for area/minigame
+-Smoothen the loading bar (1-100%) instead of 10% 50% etc
